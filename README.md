@@ -1,4 +1,4 @@
-# cqzero
+
 # spottmall
 
 ## Project setup
